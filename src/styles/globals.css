@@ -28,3 +28,10 @@ pre[class*='language-'],
 code[class*='language-'] {
   @apply font-mono !important;
 }
+
+.plyr__captions {
+  --plyr-font-size-small: 20px;
+  --plyr-font-size-base: 24px;
+  --plyr-font-size-large: 28px;
+  --plyr-font-size-xlarge: 36px;
+}
